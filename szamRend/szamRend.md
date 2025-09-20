@@ -31,4 +31,5 @@ z spectrum
 - Természetes sázmok ábrázolása, Egész számok ábrázolása, Lebegőpontos számábrázolás, (mantissza -> pontosság, karakterisztika -> ??)
 - Egyes és kettes komplemens számábrázoáls -> kettes komplemenst használjuk
 - FLASH (NOR, NAND verziók)
-- 
+
+\frac{1}{2}

@@ -13,5 +13,5 @@
 - float ábrázolás számítógépben
 - 31415.93E-4 -> E-4 -> $$ 10^-4 $$
 -  escape karakterek
--
+
 
