@@ -1,0 +1,5 @@
+Be: m ∈ N, f ∈ N, s ∈ N, vk ∈ R
+Ki: t ∈ R, vt ∈ R
+Ef: f > 0 és m > 0 és s > 0 és vk > 0
+Uf:	t = (-vk +- sqrt(vk * vk) + 2 * ((f * s) / m) * s) / (f / m)
+	t > 0

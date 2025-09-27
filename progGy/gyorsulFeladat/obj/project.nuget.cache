@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9k5YZF3plQ=",
+  "success": true,
+  "projectFilePath": "/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/gyorsulFeladat.csproj",
+  "expectedPackageFiles": [
+    "/home/neo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/neo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

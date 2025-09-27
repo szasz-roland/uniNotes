@@ -128,3 +128,38 @@ Fejlesztői környezet beállítása:
     2. azure (free az infes emaillel):w
     [using system // kell a bírónak]
     slide 69 kérdések listája
+
+
+## Tömb = Sorozat(órán)
+### 
+- Sok azonos típuső adatot tárol
+- Indexelt helyoértékek
+- jelölés: name {eleme} [1..3] 
+- lekérdezés indexel: name[0] -> első tag -> algoritmus(struktogram) készítésnél az indexelés 1 től indul
+### Specifikációban
+- tömb[1..5:szöveg]
+### c\# -ban
+- statikus - ismert méret
+    - string[]
+    - char[]
+- statikus max.méret
+    - int n;
+    - const int MAXN = 100;
+- statikus - igény szerinti méret (user input)
+    - int n;
+    - int.TryParse(Console.ReadLine(), out n);
+    - string[] vendegek = new string[n];
+### Algoritmusból kódba -> index eltoódás:
+- 3 mód elfogadott (dia 30-32$)
+### Konstans tömb
+- pl.: színek sínek eleme [1..2] = ["piros", "zöld"] (dia 34)
+## Mátrixok
+- 2 dimenziós tömb eg. matrix[x,y]
+
+
+## Analóg Programozás
+- programok újrafelhasználása -
+    - sok hasonló feladatok kell megoldani akkor csinálunk séga functionokat
+- **DEF: a konkrét feladatot egy korábbi feladat megoldása alapján állítjuk elő**
+- **Dia 17: mtárixból vektorok skaláris szorzata**
+-

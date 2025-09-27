@@ -1,0 +1,15 @@
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/bin/Debug/net8.0/gyorsulFeladat
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/bin/Debug/net8.0/gyorsulFeladat.deps.json
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/bin/Debug/net8.0/gyorsulFeladat.runtimeconfig.json
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/bin/Debug/net8.0/gyorsulFeladat.dll
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/bin/Debug/net8.0/gyorsulFeladat.pdb
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.AssemblyInfoInputs.cache
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.AssemblyInfo.cs
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.sourcelink.json
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.dll
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/refint/gyorsulFeladat.dll
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.pdb
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/gyorsulFeladat.genruntimeconfig.cache
+/home/neo/Desktop/uniNotes/progGy/gyorsulFeladat/obj/Debug/net8.0/ref/gyorsulFeladat.dll
