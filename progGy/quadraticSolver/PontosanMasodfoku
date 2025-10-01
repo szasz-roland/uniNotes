@@ -1,0 +1,43 @@
+/*
+Author: Szász Roland
+Neptun: UW0FDO
+*/
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        (double x1, double x2, bool van) megoldas = QuadraticSolver(1, -3, 2);
+        Console.WriteLine($"Van megoldás: {megoldas.van}\nEgyik megoldás: {megoldas.x1}\nMásik megoldás: {megoldas.x2}");
+    }
+    public static (double x1, double x2, bool van) QuadraticSolver(double a, double b, double c)
+    {
+        double diszk = (b * b) - (4 * a * c);
+        double x1;
+        double x2;
+        bool van;
+
+        if (diszk > 0)
+        {
+            van = true;
+            x1 = (-b + Math.Sqrt(diszk)) / (2 * a);
+            x2 = (-b - Math.Sqrt(diszk)) / (2 * a);
+        }
+        else if (diszk == 0)
+        {
+            van = true;
+            x1 = -b / (2 * a);
+            x2 = x1;
+        }
+        else
+        {
+            van = false;
+            x1 = 0;
+            x2 = 0;
+        }
+
+
+        return (x1, x2, van);
+    }
+}

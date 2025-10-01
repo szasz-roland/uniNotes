@@ -1,0 +1,15 @@
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/bin/Debug/net8.0/quadraticSolver
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/bin/Debug/net8.0/quadraticSolver.deps.json
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/bin/Debug/net8.0/quadraticSolver.runtimeconfig.json
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/bin/Debug/net8.0/quadraticSolver.dll
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/bin/Debug/net8.0/quadraticSolver.pdb
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.AssemblyInfoInputs.cache
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.AssemblyInfo.cs
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.sourcelink.json
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.dll
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/refint/quadraticSolver.dll
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.pdb
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/quadraticSolver.genruntimeconfig.cache
+/home/neo/Desktop/uniNotes/progGy/quadraticSolver/obj/Debug/net8.0/ref/quadraticSolver.dll
