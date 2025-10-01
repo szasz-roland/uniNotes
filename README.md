@@ -107,44 +107,6 @@ cd progEa/example_csharp_project # Replace with actual project path
 dotnet run
 ```
 
-
-## 🗺️ Project Roadmap
-
-The `uniNotes` project is continuously evolving. Here are some planned future enhancements:
-
-*   **Version 1.1.0**:
-    *   Add more subjects and course materials.
-    *   Expand `C#` and `Shell` programming examples with more complex scenarios.
-    *   Implement a search function within `openNote.sh` to find notes by keyword.
-*   **Version 1.2.0**:
-    *   Introduce documentation for each programming example.
-    *   Integrate a simple web-based interface for browsing notes (optional, long-term).
-    *   Add unit tests for C# code examples where applicable.
-*   **Future Goals**:
-    *   Incorporate notes for additional primary languages.
-    *   Community contributions for new subjects and improved content.
-
-
-## 🤝 Contribution Guidelines
-
-We welcome contributions to `uniNotes`! If you'd like to contribute, please follow these guidelines:
-
-1.  **Fork the Repository**: Start by forking the `uniNotes` repository to your GitHub account.
-2.  **Create a New Branch**:
-    *   For new features: `feature/your-feature-name`
-    *   For bug fixes: `fix/issue-description`
-    *   For documentation: `docs/update-description`
-3.  **Code Style**:
-    *   **Shell Scripts**: Follow common shell scripting best practices (e.g., ShellCheck recommendations, clear variable names, comments).
-    *   **C#**: Adhere to C# coding conventions (e.g., PascalCase for types/methods, camelCase for local variables, consistent formatting). Use `dotnet format` if available.
-4.  **Commit Your Changes**: Make atomic commits with clear, descriptive messages.
-5.  **Test Your Changes**: If you're adding new code or modifying existing functionality, ensure it works as expected. For C# code, consider adding unit tests.
-6.  **Open a Pull Request (PR)**:
-    *   Target the `main` branch of the `szasz-roland/uniNotes` repository.
-    *   Provide a clear description of your changes and why they are beneficial.
-    *   Reference any related issues.
-
-
 ## ⚖️ License Information
 
 This project is currently **unlicensed**.
