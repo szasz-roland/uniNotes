@@ -2,14 +2,7 @@
 
 A curated collection of university course notes, programming examples, and foundational knowledge.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-None-lightgrey)
-![Stars](https://img.shields.io/github/stars/szasz-roland/uniNotes?style=social)
-![Forks](https://img.shields.io/github/forks/szasz-roland/uniNotes?style=social)
-
-![uniNotes Preview Image](/preview_example.png)
-_Placeholder: A screenshot showing the directory structure or an example note._
-
 
 ## ✨ Features
 
