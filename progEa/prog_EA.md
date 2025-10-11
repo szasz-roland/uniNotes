@@ -162,4 +162,9 @@ Fejlesztői környezet beállítása:
     - sok hasonló feladatok kell megoldani akkor csinálunk séga functionokat
 - **DEF: a konkrét feladatot egy korábbi feladat megoldása alapján állítjuk elő**
 - **Dia 17: mtárixból vektorok skaláris szorzata**
--
+
+
+# Okt 1
+
+## Feltételes maximum
+- Uf: (van,maxind,maxért)=FELTMAX(i=e..u,f(i),T(i))

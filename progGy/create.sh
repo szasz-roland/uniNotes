@@ -234,8 +234,8 @@ main() {
     # Create and setup project
     create_project "$PROJECT_NAME" "$VERSION" "$TYPE"
     add_version_info "$PROJECT_NAME" "$TYPE"
-    run_project "$PROJECT_NAME"
-    open_vscode "$PROJECT_NAME"
+#    run_project "$PROJECT_NAME"
+#    open_vscode "$PROJECT_NAME"
 
     echo ""
     echo -e "${GREEN}✓ All done! Happy coding! 🎉${NC}"

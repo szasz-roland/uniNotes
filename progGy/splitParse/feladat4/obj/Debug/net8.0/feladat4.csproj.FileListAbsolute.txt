@@ -1,0 +1,15 @@
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/bin/Debug/net8.0/feladat4
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/bin/Debug/net8.0/feladat4.deps.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/bin/Debug/net8.0/feladat4.runtimeconfig.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/bin/Debug/net8.0/feladat4.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/bin/Debug/net8.0/feladat4.pdb
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.AssemblyInfoInputs.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.AssemblyInfo.cs
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.sourcelink.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/refint/feladat4.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.pdb
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/feladat4.genruntimeconfig.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat4/obj/Debug/net8.0/ref/feladat4.dll

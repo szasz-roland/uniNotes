@@ -1,0 +1,15 @@
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/bin/Debug/net8.0/nevsorbanNovekvoMagassag
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/bin/Debug/net8.0/nevsorbanNovekvoMagassag.deps.json
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/bin/Debug/net8.0/nevsorbanNovekvoMagassag.runtimeconfig.json
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/bin/Debug/net8.0/nevsorbanNovekvoMagassag.dll
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/bin/Debug/net8.0/nevsorbanNovekvoMagassag.pdb
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.AssemblyInfoInputs.cache
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.AssemblyInfo.cs
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.sourcelink.json
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.dll
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/refint/nevsorbanNovekvoMagassag.dll
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.pdb
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/nevsorbanNovekvoMagassag.genruntimeconfig.cache
+/home/neo/Desktop/uniNotes/progGy/biro/nevsorbanNovekvoMagassag/obj/Debug/net8.0/ref/nevsorbanNovekvoMagassag.dll

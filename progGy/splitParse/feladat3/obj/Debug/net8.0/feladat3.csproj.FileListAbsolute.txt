@@ -1,0 +1,15 @@
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.AssemblyInfoInputs.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.AssemblyInfo.cs
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.sourcelink.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/bin/Debug/net8.0/feladat3
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/bin/Debug/net8.0/feladat3.deps.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/bin/Debug/net8.0/feladat3.runtimeconfig.json
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/bin/Debug/net8.0/feladat3.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/bin/Debug/net8.0/feladat3.pdb
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/refint/feladat3.dll
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.pdb
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/feladat3.genruntimeconfig.cache
+/home/neo/Desktop/uniNotes/progGy/splitParse/feladat3/obj/Debug/net8.0/ref/feladat3.dll
