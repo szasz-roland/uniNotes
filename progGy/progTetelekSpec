@@ -1,0 +1,21 @@
+Összegzés (összegük)
+	osszeg=SZUM(i=e..u, f(i))
+Megszámolás (mennyi van)
+	db=MEGSZAMOL(i=e..u, T(i)) <=> db=SZUM(i=e..n, 1, T(i))
+Maximumkiválasztás (melyik a legnagyobb) [min]
+	(maxind, maxert)=MAX(i=e..u, f(i))
+Feltételes maximumkiválasztás (melyik a legnagyobb T tulajdonságú) [feltmin]
+	(van,maxind,maxert)=FELTMAX(i=e..u, f(i), T(i))
+Keresés (van-e és hol,   elsőt keresi)
+	(van, ind)=VAN(i=i..u, T(i))
+Eldöntés (van-e)
+	van=VAN(i=e..u, T(i))
+Kiválasztás (van e T tulajdonságú ami nem e)
+	ind=KIVÁLASZT(i>=e, T(i))
+Másolás (????)
+	y=MÁSOL(i=e..u, f(i))
+Kiválogatás
+	(db,y)=KIVÁLOGAT(i=e..u, T(i), f(i))
+	
+	
+	https://progalap.elte.hu/stuki/v1/?uuid=574abf53-6b1c-4590-ad02-3c18441ade7d

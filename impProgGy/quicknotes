@@ -1,0 +1,2 @@
+pointer array kapcsolat
+pointer aritmetika -> *(t+1) == t[1] where t egy pointer
