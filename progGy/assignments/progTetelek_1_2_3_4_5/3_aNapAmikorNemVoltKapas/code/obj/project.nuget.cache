@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lpg2etYBMgA=",
+  "success": true,
+  "projectFilePath": "/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/3_aNapAmikorNemVoltKapas/code/code.csproj",
+  "expectedPackageFiles": [
+    "/home/neo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/neo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

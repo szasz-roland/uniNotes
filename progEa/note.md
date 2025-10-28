@@ -63,7 +63,7 @@ Struct helyett többD tömb magasságos feladat
 ## Mátrixok
 - NEM TÖMB A TÖMBBEN
 - spepcifikacio: x eleme Z[1..n,1..m]
-- algoritmus: x:Tömb[1..n,1..m:Egésu]
+- algoritmus: x:Tömb[1..n,1..m:Egész]
 - kód: int[,] x = new int[n,m] // a vessző fontos
 - <dia 24-25-26> trükköket :D
 
@@ -102,5 +102,31 @@ static double negyzet(double n) {
 
 # ??-as dia
 ## Visszavezetési esetek
+
+
+_ZH időpontok: Canvas kezdőlap követelmények_ : _https://canvas.elte.hu/courses/56239/assignments/436869_
+
+
+# 10-es dia
+## Több minta feladat
+- minden UF-re ami egy minta - programotási tétel - formályát követi, kell visszavezetési táblátat tehát ha 2 UF-em van akkor 2 visszavezetési táblázat kell -> Programtranszformáció??
+- amely függvénynek nincs kimenete csalk értéket számol azok Porcedőrák
+## Több programozási minta együttes használata -> egymásbaágazással
+
+- _extra tételek_ mind eldöntés, 
+
+- Általában a függvényes megoldások az elvártak
+    - alap feladatokat is like beolvas(), kiszámolorshit(), kiir()
+- matrix length:
+    ```cs
+    int[,] = jegyezK;
+    jegyek.GetLength(0); 
+    ```
+- 71-es dia. osszeg(i) helyett o nem? vt-ben,
+- 71-es dia mi lenne ha az összeg fv-nek f() lennea neve akkor a vt-ben irhatom f(i) -- f(i) mert ha ugyanaz akkor nem írjuk bene akkor ezt ki lehet játszani nem?
+-
+-
+
+
 
 

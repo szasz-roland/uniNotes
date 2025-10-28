@@ -1,0 +1,16 @@
+- deklaráció = típusdefiniálás
+- Definícó = memóriában helye van
+- minden def dekl de fordítva nem
+- _bárminek aminek neve van kötelező deklarálni legalább egyszer az eslő használata előtt_
+- _mindent kötelező definiálni PONTOSAN egyszer_
+- stack = végrehajtási verem -> globális függvények
+    - addig van itt amíg fut a függvény utána kipucolom  a memóriából
+- scope = 
+- heap = -> malloc(()
+    - amíg fel nem szabadítom a free()-vel mint 
+- static memory =  -> globális változók
+    - program végéig ott van
+- inicializáslás = deklarációval egyidpőbeni értékadás
+- értékadás = késsőbbi értékadás like i = 0;
+- VLA = variable length array
+- Malloc és egyébe

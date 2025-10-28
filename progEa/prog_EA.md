@@ -168,3 +168,4 @@ Fejlesztői környezet beállítása:
 
 ## Feltételes maximum
 - Uf: (van,maxind,maxért)=FELTMAX(i=e..u,f(i),T(i))
+
