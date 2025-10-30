@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("szelcsendesNapokSzama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a98f2ac2972cdae7200d022b23db6a0a713a557")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd70541bd0275ab4ca1de4f1253fb393eb2f1c97")]
 [assembly: System.Reflection.AssemblyProductAttribute("szelcsendesNapokSzama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("szelcsendesNapokSzama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

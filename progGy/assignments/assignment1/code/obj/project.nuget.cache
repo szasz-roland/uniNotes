@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dyvtab3Bc8s=",
+  "dgSpecHash": "GuKSc1gMuLg=",
   "success": true,
-  "projectFilePath": "/home/neo/Documents/uniNotes/progGy/beadando1/szelcsendesNapokSzama/szelcsendesNapokSzama.csproj",
+  "projectFilePath": "/home/neo/Documents/uniNotes/progGy/assignments/assignment1/code/szelcsendesNapokSzama.csproj",
   "expectedPackageFiles": [
     "/home/neo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
     "/home/neo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"

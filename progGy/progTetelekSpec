@@ -7,7 +7,7 @@ Maximumkiválasztás (melyik a legnagyobb) [min]
 Feltételes maximumkiválasztás (melyik a legnagyobb T tulajdonságú) [feltmin]
 	(van,maxind,maxert)=FELTMAX(i=e..u, f(i), T(i))
 Keresés (van-e és hol,   elsőt keresi)
-	(van, ind)=VAN(i=i..u, T(i))
+	(van, ind)=KERES(i=i..u, T(i))
 Eldöntés (van-e)
 	van=VAN(i=e..u, T(i))
 Kiválasztás (van e T tulajdonságú ami nem e)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/neo/Documents/uniNotes/progGy/beadando1/szelcsendesNapokSzama/szelcsendesNapokSzama.csproj",
+      "projectUniqueName": "/home/neo/Documents/uniNotes/progGy/assignments/assignment1/code/szelcsendesNapokSzama.csproj",
       "projectName": "szelcsendesNapokSzama",
-      "projectPath": "/home/neo/Documents/uniNotes/progGy/beadando1/szelcsendesNapokSzama/szelcsendesNapokSzama.csproj",
+      "projectPath": "/home/neo/Documents/uniNotes/progGy/assignments/assignment1/code/szelcsendesNapokSzama.csproj",
       "packagesPath": "/home/neo/.nuget/packages/",
-      "outputPath": "/home/neo/Documents/uniNotes/progGy/beadando1/szelcsendesNapokSzama/obj/",
+      "outputPath": "/home/neo/Documents/uniNotes/progGy/assignments/assignment1/code/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/neo/.nuget/NuGet/NuGet.Config"
