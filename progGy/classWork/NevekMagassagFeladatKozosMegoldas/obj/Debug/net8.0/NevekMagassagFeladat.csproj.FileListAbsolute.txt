@@ -1,0 +1,15 @@
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.AssemblyInfoInputs.cache
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.AssemblyInfo.cs
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.csproj.CoreCompileInputs.cache
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.sourcelink.json
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/bin/Debug/net8.0/NevekMagassagFeladat
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/bin/Debug/net8.0/NevekMagassagFeladat.deps.json
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/bin/Debug/net8.0/NevekMagassagFeladat.runtimeconfig.json
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/bin/Debug/net8.0/NevekMagassagFeladat.dll
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/bin/Debug/net8.0/NevekMagassagFeladat.pdb
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.dll
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/refint/NevekMagassagFeladat.dll
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.pdb
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/NevekMagassagFeladat.genruntimeconfig.cache
+/home/neo/Documents/uniNotes/progGy/classWork/NevekMagassagFeladatKozosMegoldas/obj/Debug/net8.0/ref/NevekMagassagFeladat.dll
