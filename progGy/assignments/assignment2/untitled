@@ -1,0 +1,41 @@
+Nevezes∈(helyNev:S,lelekSzam:N, resztvevok:N)
+
+I.   kategória:          lelekSzam < 700
+II.  kategória: 700    < lelekSzam < 1499
+III. kategória: 1500   < lelekSzam < 2999
+IV.  kategória: 3000   < lelekSzam < 7999
+V.   kategória: 8000   < lelekSzam < 24999
+VI.  kategória: 250000 < lelekSzam < 69999
+VII. kategória: 70000  < lelekSzam
+
+nevezesekSzama: n ∈ N (1 <= n <= 1000)
+nevezok:		nevezok∈Nevezes(1..n)
+
+∀i∈[1..n]:(1 <= nevezok[i].lelekSzam <= 200000) és 
+∀i∈[1..n]:(1 <= nevezok[i].resztvevok <= 10000)
+
+
+Kiválogatás:  (db,y)=KIVÁLOGAT(i=e..u,T(i),f(i)) -> Kiválogatom pl: először az első kategóriába tartozókat aztán a második és így tovább
+Összegzés:    s=SZUMMA(i=e..u, f(i)) 			 -> Összeadom a kiválogatottakat melyekre igaz az hogy az addot kategóriába esnek és összeadom a nevevezok[i].lelekszam-át hogy tudjam menyen neveztek és azt hozzáadom a "megolds" lista megfelelő idexű helyére
+	- pl. (,I_kategoria)=KIVÁLOGAT(i=1..n, (lelekSzam < 700) ) és s=SZUMMA(i=1..hossz(I_kategoria), I_kategoria[i]) és 
+
+
+
+/* Be: n ∈ N,
+    nevezok∈Nevezes[1..n],
+    Nevezes=(helyNev:S x lelekSzam:N x resztvevok:N)
+
+Ki: resztszamok∈N[1..7]
+
+Ef: 1 <= n <= 1000 és
+    ∀i∈[1..n]:(1 <= nevezok[i].lelekSzam <= 200000) és
+    ∀i∈[1..n]:(1 <= nevezok[i].resztvevok <= 10000)
+
+Uf: resztszamok[1] = SZUMMA(i=1..n, nevezok[i].resztvevok, nevezok[i].lelekSzam < 700) és
+    resztszamok[2] = SZUMMA(i=1..n, nevezok[i].resztvevok, (700 <= nevezok[i].lelekSzam és nevezok[i].lelekSzam <= 1499)) és
+    resztszamok[3] = SZUMMA(i=1..n, nevezok[i].resztvevok, (1500 <= nevezok[i].lelekSzam és nevezok[i].lelekSzam <= 2999)) és
+    resztszamok[4] = SZUMMA(i=1..n, nevezok[i].resztvevok, (3000 <= nevezok[i].lelekSzam és nevezok[i].lelekSzam <= 7999)) és
+    resztszamok[5] = SZUMMA(i=1..n, nevezok[i].resztvevok, (8000 <= nevezok[i].lelekSzam és nevezok[i].lelekSzam <= 24999)) és
+    resztszamok[6] = SZUMMA(i=1..n, nevezok[i].resztvevok, (25000 <= nevezok[i].lelekSzam és nevezok[i].lelekSzam <= 69999)) és
+    resztszamok[7] = SZUMMA(i=1..n, nevezok[i].resztvevok, nevezok[i].lelekSzam > 70000)
+*/

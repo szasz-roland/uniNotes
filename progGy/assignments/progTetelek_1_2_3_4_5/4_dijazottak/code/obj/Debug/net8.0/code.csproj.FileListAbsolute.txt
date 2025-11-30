@@ -1,0 +1,15 @@
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.AssemblyInfoInputs.cache
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.AssemblyInfo.cs
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.csproj.CoreCompileInputs.cache
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.sourcelink.json
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/bin/Debug/net8.0/code
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/bin/Debug/net8.0/code.deps.json
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/bin/Debug/net8.0/code.runtimeconfig.json
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/bin/Debug/net8.0/code.dll
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/bin/Debug/net8.0/code.pdb
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.dll
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/refint/code.dll
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.pdb
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/code.genruntimeconfig.cache
+/home/neo/Documents/uniNotes/progGy/assignments/progTetelek_1_2_3_4_5/4_dijazottak/code/obj/Debug/net8.0/ref/code.dll

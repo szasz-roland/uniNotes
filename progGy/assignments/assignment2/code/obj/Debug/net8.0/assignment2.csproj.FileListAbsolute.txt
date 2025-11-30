@@ -1,0 +1,15 @@
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.AssemblyInfoInputs.cache
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.AssemblyInfo.cs
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.csproj.CoreCompileInputs.cache
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.sourcelink.json
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/bin/Debug/net8.0/assignment2
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/bin/Debug/net8.0/assignment2.deps.json
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/bin/Debug/net8.0/assignment2.runtimeconfig.json
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/bin/Debug/net8.0/assignment2.dll
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/bin/Debug/net8.0/assignment2.pdb
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.dll
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/refint/assignment2.dll
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.pdb
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/assignment2.genruntimeconfig.cache
+/home/neo/Documents/uniNotes/progGy/assignments/assignment2/code/obj/Debug/net8.0/ref/assignment2.dll
